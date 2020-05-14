@@ -1,0 +1,21 @@
+h1 { 
+   background-color: orange; 
+   }
+table {
+       border: none;
+       width: 50%;
+       text-align: center;
+       font: verdana;
+       background-color:#FFFF80;
+       }
+tr.primedue{
+            background-color: orange;
+           }
+tr.ultimequattro{
+                 background-color: FFC000;
+                }
+p1 {
+    text-align: right;
+   }
+
+      

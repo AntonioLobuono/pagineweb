@@ -1,0 +1,31 @@
+h1 {
+    background-color:#0066CC;
+    color: white;
+   }
+p1 {
+    background-color:#0099CC;
+   }
+table {
+       border: none;
+       width: 25%;
+       font: verdana;
+       background-color:#F0F0F0;
+       }
+tr.primariga { 
+              background-color: #0066CC;
+              text-align: center;
+              color: white;
+              font-size: 120%;
+             }
+tr.secondariga { 
+              background-color: #0099CC;
+              text-align: center;
+              color: white;
+              font-size: 120%;
+             }
+tr.ultimerighe {
+                background-color: lightgrey;
+               }
+h3 {
+    text-align: right;
+   }

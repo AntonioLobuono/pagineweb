@@ -1,0 +1,38 @@
+html {
+      font:arial;
+      background-color: #0080FF;
+      color: white;
+     }
+h1 {
+    background-color: #9900CC;
+    color: yellow;
+    font-size: 120%;
+   }
+p1 {
+    background-color: #6600CC;
+    color: white;
+   }
+LI.primo {
+     font-size: 140%;
+    }
+LI.secondo {
+     font-size: 140%;
+    }
+table {
+       border: none;
+       width: 25%;
+       font: verdana;
+       background-color: yellow;
+       text-align: center;
+      }
+tr.primasecondariga {
+                     background-color: #9900CC;
+                     color: yellow;
+                    }
+tr.terzarigainpoi {
+                   background-color: #6600CC;
+                   color: white;
+                  }
+h3 {
+    text-align: right;
+   }

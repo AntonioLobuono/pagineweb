@@ -1,0 +1,5 @@
+function bottone {
+    <button type="button"
+    onclick="document.getElementById("cioccolato").innerHTML="Antonio Lobuono">
+    Click Me!</button>
+    }
